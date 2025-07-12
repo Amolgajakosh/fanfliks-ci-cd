@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fanfliks-api
+  labels:
+    app: fanfliks-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: fanfliks-api
+  template:
+    metadata:
+      labels:
+        app: fanfliks-api
+    spec:
+      containers:
+      - name: fanfliks-api
+        image: your-dockerhub-username/fanfliks-api:latest  # This will be replaced by Jenkins
+        ports:
+        - containerPort: 80
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: fanfliks-api-service
+spec:
+  type: ClusterIP
+  selector:
+    app: fanfliks-api
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
