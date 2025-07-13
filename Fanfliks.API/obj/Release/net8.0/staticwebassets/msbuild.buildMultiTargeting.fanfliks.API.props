@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fanfliks.API.props" />
+</Project>

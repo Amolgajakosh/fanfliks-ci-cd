@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Fanfliks\\Fanfliks.csproj",
-      "projectName": "Fanfliks",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Fanfliks\\Fanfliks.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Fanfliks\\Fanfliks.API\\fanfliks.API.csproj",
+      "projectName": "fanfliks.API",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Fanfliks\\Fanfliks.API\\fanfliks.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Fanfliks\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Fanfliks\\Fanfliks.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

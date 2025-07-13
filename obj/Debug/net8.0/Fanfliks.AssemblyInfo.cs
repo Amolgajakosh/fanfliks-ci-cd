@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fanfliks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+756cc70825179efca3173f5da18c1e10de97e258")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fanfliks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fanfliks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

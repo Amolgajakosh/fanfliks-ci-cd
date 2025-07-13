@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\Fanfliks\Fanfliks.API\publish\fanfliks.API.exe
+C:\Users\HP\Desktop\Fanfliks\Fanfliks.API\publish\fanfliks.API.dll
+C:\Users\HP\Desktop\Fanfliks\Fanfliks.API\publish\fanfliks.API.deps.json
+C:\Users\HP\Desktop\Fanfliks\Fanfliks.API\publish\fanfliks.API.runtimeconfig.json
+C:\Users\HP\Desktop\Fanfliks\Fanfliks.API\publish\fanfliks.API.pdb
